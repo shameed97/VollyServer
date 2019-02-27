@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VollyServer</string>
+    <string name="add_data">Add Data</string>
+    <string name="enter_id">Enter id</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_mobileno">Enter Mobileno</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="insert">Insert</string>
+    <string name="enter_username">Enter Username</string>
+</resources>
